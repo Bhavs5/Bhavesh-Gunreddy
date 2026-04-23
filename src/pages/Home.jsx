@@ -66,7 +66,7 @@ const projects = [
     desc: "Snake game prototype in Java using OOP principles and a clean game loop. Includes collision detection, dynamic scoring, keyboard controls, and real-time UI feedback.",
     tags: ["Java", "OOP", "Game Dev"],
     date: "Sep – Oct 2025",
-    link: "https://github.com/Bhavs5",
+    link: "https://github.com/Bhavs5/snake_game",
   },
 ];
 
