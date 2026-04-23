@@ -30,7 +30,7 @@ const projects = [
     categories: ["software"],
     date: "Sep – Oct 2025",
     status: "complete",
-    link: "https://github.com/Bhavs5",
+    link: "https://github.com/Bhavs5/snake_game",
   },
 ];
 
